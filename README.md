@@ -73,3 +73,25 @@ The main goal of this repository is to build a strong practical understanding of
 - SciPy
 - Jupyter Notebook
 - Git & GitHub
+
+- ---
+
+## 📊 Notebook Progress
+
+| No. | Topic | Status |
+|---|---|---|
+| 01 | Introduction to Statistics | Completed |
+| 02 | Central Tendency | Completed |
+| 03 | Measures of Dispersion | Completed |
+| 04 | Data Distribution | Completed |
+| 05 | Probability | Completed |
+| 06 | Probability Distributions | Completed |
+| 07 | Sampling | Completed |
+| 08 | Correlation | Completed |
+| 09 | Outlier Detection | Completed |
+| 10 | Hypothesis Testing | Completed |
+| 11 | Statistical Tests | Completed |
+| 12 | Feature Relationships | Completed |
+| 13 | Statistical Data Visualization | Completed |
+| 14 | Statistics in Machine Learning | Completed |
+| 15 | Mini Assessment | Completed |
