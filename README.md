@@ -60,3 +60,16 @@ The main goal of this repository is to build a strong practical understanding of
 
 - Mini Assessment
 - Python Coding Exercises
+
+- ---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- SciPy
+- Jupyter Notebook
+- Git & GitHub
