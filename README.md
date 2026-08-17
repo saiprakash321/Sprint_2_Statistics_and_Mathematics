@@ -16,3 +16,47 @@ The main goal of this repository is to build a strong practical understanding of
 - Understand relationships between variables.
 - Apply statistical concepts to Machine Learning.
 - Improve practical data analysis skills.
+
+---
+
+## 📚 Topics Covered
+
+### Statistics Fundamentals
+
+- Introduction to Statistics
+- Central Tendency
+- Measures of Dispersion
+- Data Distribution
+- Probability
+- Probability Distributions
+- Sampling
+
+### Statistical Analysis
+
+- Correlation & Covariance
+- Outlier Detection
+- Hypothesis Testing
+- Statistical Tests
+- Feature Relationships
+- Statistical Data Visualization
+
+### Statistics in Machine Learning
+
+- Data Cleaning
+- Missing Value Handling
+- Outlier Detection
+- Feature Engineering
+- Feature Scaling
+- Data Normalization
+- Model Evaluation
+- Linear Regression
+- Logistic Regression
+- Naive Bayes
+- Clustering
+- Principal Component Analysis (PCA)
+- Recommendation Systems
+
+### Assessment
+
+- Mini Assessment
+- Python Coding Exercises
