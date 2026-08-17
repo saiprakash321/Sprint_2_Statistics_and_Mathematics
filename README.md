@@ -95,3 +95,11 @@ The main goal of this repository is to build a strong practical understanding of
 | 13 | Statistical Data Visualization | Completed |
 | 14 | Statistics in Machine Learning | Completed |
 | 15 | Mini Assessment | Completed |
+
+---
+
+## 📈 Progress Summary
+
+Completed all 15 Statistics and Mathematics learning modules with practical Python exercises.
+
+The learning journey covered statistical fundamentals, data analysis, visualization, hypothesis testing, and the application of statistics in Machine Learning.
